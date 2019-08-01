@@ -36,7 +36,9 @@ See below for more details on the requirements of each phase.
 
 ### Qualification Phase
 
-For the qualification phase, participating teams are invited to **reverse engineer** a [provided vulnerable binary](qualification.out) using **Ghidra** and develop exploits using different approaches and techniques. In addition, teams should compile a **write-up** that outlines their exploits and methodologies.
+For the qualification phase, participating teams are invited to **reverse engineer** a [provided vulnerable binary](qualification.out) using **Ghidra** and develop exploits using different approaches and techniques. In addition, teams should submit a **write-up** that outlines their approaches and techniques (not necessarily only one approach/technique) utilized to reverse engineer the provided binary. To that end, the proposal should also explore existing techniques on the topic, focusing on (but not necessarily limited to) firmware exploitation and RFID hacking. The best approaches will include a discussion of existing techniques, a clear outline of reverse engineering methodologies, and a demonstration of the success and effectiveness of the team's strategy. 
+
+Qualification phase reports will be evaluated by a team of experts, and will take into account the **correctness** and **creativity** of the applied reverse-engineering techniques, as well as the completeness and quality of the compiled report.
 
 ### Final Phase
 
