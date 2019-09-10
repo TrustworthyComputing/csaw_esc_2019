@@ -24,6 +24,8 @@ This year's ESC focuses on the security of radio frequency identification (RFID)
 
 <p align="center">
   <img src="https://github.com/TrustworthyComputing/csaw_esc_2019/raw/master/esc19board4.png" alt="ESC19 RFID Board"/>
+</p>
+<p align="center">
   <center>Custom RFID board.</center>
 </p>
 
