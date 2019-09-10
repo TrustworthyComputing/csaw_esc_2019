@@ -22,6 +22,10 @@ The competition is organized in all regions under the supervision of Professor N
 ## Challenge Summary
 This year's ESC focuses on the security of radio frequency identification (RFID) readers, which are utilized broadly from access control in buildings to user authentication in computing systems. This challenge will task contestants with **hacking the firmware of a custom RFID card reader using reverse engineering tools developed by the United States National Security Agency (NSA)**.
 
+<p align="center">
+  <img src="https://github.com/TrustworthyComputing/csaw_esc_2019/raw/master/esc19board4.png" alt="ESC19 RFID Board"/>
+  <center>Custom RFID board.</center>
+</p>
 
 **Motivational scenario:** A new tech startup Secure and Formidable Enterprises (SAFE) has tasked contestants with the physical penetration testing of their new RFID security system. To enhance security, each office in the building is protected with a different locking algorithm. Low security offices have simple security measures, while the company president's office and research & developement areas utilize advanced security techniques.  Contestants must utilize reverse engineering tools developed by the United States National Security Agency as well as their knowledge of firmware reverse engineering to break through a number of increasingly difficult security measures protecting each office. More details and specifics can be found on the [challenge description](challenge_description.md) page.
 
