@@ -1,6 +1,11 @@
+
+
+
 CSAW 2019 Embedded Security Challenge (ESC)
 ===========================================
-
+```diff
+- **Registration Date Has Been Extended to 22 September 2019**
+```
 **Teams are encouraged to start investigating the challenge as early as possible.**
 
 *It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
@@ -52,4 +57,3 @@ After registration closes, making changes to the existing members of a team (e.g
 
 
 For more registration information, policies, deadlines, deliverable details, and for information for contacting CSAW organizers, visit the [logistics](logistics.md) page.
-
