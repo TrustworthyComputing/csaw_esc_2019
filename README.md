@@ -1,4 +1,4 @@
-# Registration Date Has Been Extended to 22 September 2019
+## Registration Date Has Been Extended to 22 September 2019
 
 
 CSAW 2019 Embedded Security Challenge (ESC)
