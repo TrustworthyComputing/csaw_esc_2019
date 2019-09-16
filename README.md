@@ -1,5 +1,4 @@
-## Registration Date Has Been Extended to 22 September 2019
-
+### Registration Date Has Been Extended to 22 September 2019
 
 CSAW 2019 Embedded Security Challenge (ESC)
 ===========================================
@@ -45,12 +44,13 @@ Each team is eligible to register for **only one region** based on university af
 
 To be able to qualify to the final round, each team must register for the correct region based on the university affiliations of its members.
 
-**Teams are encouraged to start investigating the challenge as early as possible.**
-
-*It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
-
 
 After registration closes, making changes to the existing members of a team (e.g., replacing a team member) or adding new team members, requires explicit permission from the organizers. This is also necessary for teams replacing team members or adding new team members during the final round of the competition.
 
 
 For more registration information, policies, deadlines, deliverable details, and for information for contacting CSAW organizers, visit the [logistics](logistics.md) page.
+
+**Teams are encouraged to start investigating the challenge as early as possible.**
+
+*It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
+
