@@ -1,14 +1,11 @@
-
+# Registration Date Has Been Extended to 22 September 2019
 
 
 CSAW 2019 Embedded Security Challenge (ESC)
 ===========================================
-```diff
-- **Registration Date Has Been Extended to 22 September 2019**
-```
-**Teams are encouraged to start investigating the challenge as early as possible.**
-
-*It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
+<p align="center">
+  <img src="https://github.com/TrustworthyComputing/csaw_esc_2019/raw/master/esc19board4.png" alt="ESC19 RFID Board"/>
+</p>
 
 ## Overview
 
@@ -25,11 +22,7 @@ ESC 2019 will be a world-wide event held simultaneously in four regions: US-Cana
 The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Patrick Cronin and Charles Gouert, who are also the US-Canada region challenge leads. In Europe, the competition is organized by Professor Vincent Beroulle. In the MENA region, the competition is coordinated by Professor Michail Maniatakos, with Esha Sarkar and Heba Ibrahim as the regional challenge leads. In India, ESC is supervised by Professor Sandeep Shukla, with Rohit Negi as the regional challenge lead.
 
 ## Challenge Summary
-This year's ESC focuses on the security of radio frequency identification (RFID) readers, which are utilized broadly from access control in buildings to user authentication in computing systems. This challenge will task contestants with **hacking the firmware of a custom RFID card reader (shown below) using reverse engineering tools developed by the United States National Security Agency (NSA)**.
-
-<p align="center">
-  <img src="https://github.com/TrustworthyComputing/csaw_esc_2019/raw/master/esc19board4.png" alt="ESC19 RFID Board"/>
-</p>
+This year's ESC focuses on the security of radio frequency identification (RFID) readers, which are utilized broadly from access control in buildings to user authentication in computing systems. This challenge will task contestants with **hacking the firmware of a custom RFID card reader (shown above) using reverse engineering tools developed by the United States National Security Agency (NSA)**.
 
 **Motivational scenario:** A new tech startup Secure and Formidable Enterprises (SAFE) has tasked contestants with the physical penetration testing of their new RFID security system. To enhance security, each office in the building is protected with a different locking algorithm. Low security offices have simple security measures, while the company president's office and research & developement areas utilize advanced security techniques.  Contestants must utilize reverse engineering tools developed by the United States National Security Agency as well as their knowledge of firmware reverse engineering to break through a number of increasingly difficult security measures protecting each office. More details and specifics can be found on the [challenge description](challenge_description.md) page.
 
@@ -51,6 +44,10 @@ Each team is eligible to register for **only one region** based on university af
 
 
 To be able to qualify to the final round, each team must register for the correct region based on the university affiliations of its members.
+
+**Teams are encouraged to start investigating the challenge as early as possible.**
+
+*It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
 
 
 After registration closes, making changes to the existing members of a team (e.g., replacing a team member) or adding new team members, requires explicit permission from the organizers. This is also necessary for teams replacing team members or adding new team members during the final round of the competition.
