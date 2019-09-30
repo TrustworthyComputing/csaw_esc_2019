@@ -14,6 +14,8 @@ US-Canada
 
 - Kernel Sanders, **University of Florida**, USA
 
+- Wildcats, **University of New Hampshire**, USA
+
 - Shellphish, **UC Santa Barbara**, USA
 
 - La Corruption des Libellules, **University of Québec At Chicoutimi**, Canada
@@ -23,6 +25,8 @@ US-Canada
 - Hack@UCF, **University of Central Florida**, USA
 
 - VIP-ESCS, **Georgia Institute of Technology**, USA
+
+- Team Insecurity, **University of Florida**, USA
 
 - pwndevils, **Arizona State University**, USA
 
