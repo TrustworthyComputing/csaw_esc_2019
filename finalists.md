@@ -45,6 +45,22 @@ India
 
 - SEAL_IITKGP, **Indian Institute of Technology Kharagpur**, India
 
-**Europe finalists announcements coming soon!**
+Europe
+-----
+
+- Six-p'Hack, **INSA Centre Val de Loire**, France
+
+- Les Japlatis, **UGA (IUT Valence)**, France
+
+- UBS_BZH, **Université Bretagne Sud**, France
+
+- FluxFingers, **Ruhr-University Bochum**, Germany
+
+- Dirty Cowboys, **Czech Technical University**, Czech Republic
+
+- Team Poulpi (La Pieuvre), **Grenoble INP Esisar and Grenoble INP Ensimag**, France
+
+- eslUnipi, **University of Piraeus**, Greece
+
 
 Congratulations to all the finalist teams!
