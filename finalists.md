@@ -56,11 +56,17 @@ Europe
 
 - FluxFingers, **Ruhr-University Bochum**, Germany
 
+- Albsociety, **Albstadt-Sigmaringen University**, Germany
+
+- TechWarriors, **Universität Stuttgart**, Germany
+
 - Dirty Cowboys, **Czech Technical University**, Czech Republic
 
 - Team Poulpi (La Pieuvre), **Grenoble INP Esisar and Grenoble INP Ensimag**, France
 
 - eslUnipi, **University of Piraeus**, Greece
+
+- TRX, **La Sapienza University of Rome**, Italy
 
 
 Congratulations to all the finalist teams!
