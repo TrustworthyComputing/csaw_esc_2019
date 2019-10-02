@@ -1,3 +1,5 @@
+# The first challenge set has been released [here](Challenge Releases/ChallengeSetA.zip) with instructions [here](final_phase.md)
+
 # The finalists are announced [here](finalists.md)
 
 CSAW 2019 Embedded Security Challenge (ESC)
@@ -53,4 +55,3 @@ For more registration information, policies, deadlines, deliverable details, and
 **Teams are encouraged to start investigating the challenge as early as possible.**
 
 *It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
-
