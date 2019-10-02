@@ -34,6 +34,8 @@ In case you encounter any of the following, please refer to the recommended reso
 
 ## Installing and Programming the RFID Board
 
+<iframe src="https://drive.google.com/file/d/1w3LI2o8H_1YDprZGnwkcuw4YTiXO-hwK/preview" width="640" height="480"></iframe>
+
 Periodically, new challenge sets will be released in separate binaries. These binaries will be in a zipped file which will contain the corresponding board firmware, and a script for flashing the firmware to the board. To flash the boards, we provide a virtual machine with all necessary configurations pre-installed:
 
 1. First install VMWare Player [newest version (15.5)](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0|PLAYER-1550|product_downloads) or the [legacy version for any compatibility issues](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0|PLAYER-1417|product_downloads).
@@ -112,7 +114,7 @@ To complete the challenges it is necessary to load specific values to the RFID c
 	* If you use A and B in a challenge, their values (0x0 – 0xF) must be set correctly in `sender.py`. If A and B are not uses, they must be set to 0 in `sender.py`.
 
 5. The board will inform you whether the challenge has been solved correctly using the provided inputs, and also report the number of points corresponding to that challenge. The board will not accumulate your total points (the challenge leaders will verify your solutions on a separate board).
-  
+
 
 ## Submitting Results in the Final Report
 
