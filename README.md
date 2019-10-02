@@ -1,4 +1,4 @@
-# The first challenge set has been released [here](Challenge%20Releases/ChallengeSetA.zip) with instructions [here](final_phase.md)
+# The first challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md)
 
 # The finalists are announced [here](finalists.md)
 
