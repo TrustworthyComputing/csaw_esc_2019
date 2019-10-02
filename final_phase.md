@@ -34,13 +34,21 @@ In case you encounter any of the following, please refer to the recommended reso
 
 ## Installing and Programming the RFID Board
 
-<iframe src="https://drive.google.com/file/d/1w3LI2o8H_1YDprZGnwkcuw4YTiXO-hwK/preview" width="640" height="480"></iframe>
+---
 
+### Tutorial video
+This tutorial video is meant to accompany the written instructions below.
+
+[![alt text](https://imgur.com/DRUvLtb.png)](https://drive.google.com/file/d/1w3LI2o8H_1YDprZGnwkcuw4YTiXO-hwK/preview)
+
+---
+
+### Written Instructions 
 Periodically, new challenge sets will be released in separate binaries. These binaries will be in a zipped file which will contain the corresponding board firmware, and a script for flashing the firmware to the board. To flash the boards, we provide a virtual machine with all necessary configurations pre-installed:
 
 1. First install VMWare Player [newest version (15.5)](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0|PLAYER-1550|product_downloads) or the [legacy version for any compatibility issues](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0|PLAYER-1417|product_downloads).
 
-2. After the Player is installed, use File->open and select the provided VM file.  
+2. After the Player is installed, use File->open and select the [provided VM file](https://drive.google.com/drive/folders/1ee9Cs9WRh0ig8TVHYg7X28MBlnfzSTnp?usp=sharing).  
 
 ![alt text][openVM]
 
@@ -132,3 +140,4 @@ When submitting the final report, each team should also upload a zip file with t
 [progRFIDTerm]: https://imgur.com/SjhgFqN.png  "Programming RFID Terminal"
 [runLoader]: https://imgur.com/EKnOwOc.png  "Run Binary Loader"
 [boardDescription]: https://imgur.com/cWIpbIh.png  "Board Description"
+[tutorialVideo]: https://imgur.com/DRUvLtb.png "Tutorial Video"
