@@ -9,9 +9,9 @@ Competition Deadlines
 Equipment Requirements
 ----------------------
 
-For the live finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their firmware exploits on the custom PCB and firmware, which will be provided to the finalists by the organizers. Teams are responsible for acquiring and transporting any additional equipment their techniques require.
+For the live finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions on the RFIF board and original firmware that are provided to the finalists by the organizers. Teams are responsible for acquiring and transporting any additional equipment their techniques require.
 
-Custom PCBs and firmware will be released and provided to the finalist teams after the conclusion of the qualification round.
+The RFID boards and firmware will be released and provided to the finalist teams after the conclusion of the qualification round.
 
 Deliverables
 ------------
