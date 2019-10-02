@@ -1,6 +1,6 @@
 # The first challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md)
 
-# The finalists are announced [here](finalists.md)
+### The finalists are announced [here](finalists.md)
 
 CSAW 2019 Embedded Security Challenge (ESC)
 ===========================================
