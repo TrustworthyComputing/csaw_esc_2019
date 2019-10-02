@@ -42,30 +42,28 @@ Qualification phase reports will be evaluated by a team of experts, and will tak
 
 ### Final Phase
 
-The **10 best** teams of each region (US-Canada, Europe, MENA, India) will qualify for the final phase, which will require **implementing** and **demonstrating** firmware attacks on a series of increasingly secure programs. Each exploited program will be worth 1 point.
+The top teams of each region (US-Canada, Europe, MENA, India) will qualify for the final phase, which will require **implementing** and **demonstrating** firmware-level attacks on a series of increasingly secure programs. Each exploited program will be worth a number of points depending on its difficulty.
 
-The teams should compose a **final report** detailing their approaches. The definitive goal is to demonstrate their findings during the live demos.
+A detailed description of the final phase [is provided here](final_phase.md).
+
+The teams should compose a **final report** detailing their approaches. The definitive goal is to demonstrate their methods during the live demos.
 
 ### Live Phase
 
-On the day of the finals, each region will receive a live challenge binary. This binary will have a new challenge that teams will race to solve as quickly as possible during the competition. Teams should come prepared with the provided PCB so that they can program their RFID card on site with an exploitation payload to defeat the live challenge. A special RFID lock will be programmed with the live challenge by the organizers and will be ready to be exploited; when a team is confident that they have developed a working exploit, they will scan their programmed RFID card at the RFID lock and attempt to unlock it. As this phase is a race, the first team to successfully complete it will receive 4 extra points to their final challenge score. The second team will receive 2 extra points, and the third team will receive 1 extra point. No other teams will receive extra points. 
+On the day of the finals, each region will receive a live challenge binary. This binary will have a new challenge that teams will race to solve as quickly as possible during the competition. Teams should come prepared with the provided PCB so that they can program their RFID card on site with an exploitation payload to defeat the live challenge. A special RFID lock will be programmed with the live challenge by the organizers and will be ready to be exploited; when a team is confident that they have developed a working exploit, they will scan their programmed RFID card at the RFID lock and attempt to unlock it. As this phase is a race, the first team to successfully complete it will receive 150 extra points to their final challenge score. The second team will receive 100 extra points, and the third team will receive 50 extra points. No other teams will receive extra points. 
 
 ## Evaluation and Grading Policies
 Within the final phase, there will be a series of challenges for teams to solve. Challenges will be provided in terms of increasing difficulty, but participants can solve challenges in any order that they wish.
 
-The evaluation of the finalists will be the responsibility of a panel of **industry expert judges** in each region. During the day of the finals, each team should be able to answer the questions posed by the judges and **demonstrate their exploits live**. Furthermore, the finalists are required prepare a **Powerpoint presentation** of their work and a **short video** to present on the day of the finals, complementing their submitted **final report**. On the day of the finals, demonstration of the proposed  attacks will be the responsibility of each team.
+The evaluation of the finalists will be the responsibility of a panel of **industry expert judges** in each region. During the day of the finals, each team should be able to answer the questions posed by the judges and **demonstrate their exploits live**. Furthermore, the finalists are required prepare a **Powerpoint presentation** of their work and a **short video** to present on the day of the finals, complementing their submitted **final report**. On the day of the finals, demonstration of the proposed attacks will be the responsibility of each team.
 
-The final phase challenges will be graded as follows:
-- 35% of the score will be correctness. To achieve full points in this section, teams must demonstrate the success of the exploit. This will be determined automatically by the provided firmware.
-- 25% of the score will be performance and efficiency. Performance will be evaluated by a panel of expert judges and will encompass the techniques that the participants utilize to solve the challenge. For example, utilizing a for loop to exhaustively test every possible answer would be rated as very inefficient, whereas a solution that examines a process and can determine an exact solution would be rated as very efficient.
-- 10% of the score will be novelty. This will be judged based on the uniqueness of the solution by a panel of expert judges.
+The final phase will be graded as follows:
+- 50% of the final score will be correctness. The points awarded in this section are based on successfully solving the provided challenges and depend on the difficulty of each challenge. The awarded points will be determined automatically by the provided firmware.
+- 10% of the score will be performance and efficiency. Performance will be evaluated by a panel of expert judges and will encompass the techniques that the participants utilize to solve the challenges. For example, utilizing an exhaustive test for every possible answer would be rated as very inefficient, whereas a solution that examines a process and can determine an exact solution would be rated as very efficient.
+- 10% of the score will be novelty. This will be judged based on the uniqueness of the solution methodology by a panel of expert judges.
 - 30% of the score will be the quality of the final report and presentation. The final report will be graded based on organization, clearness of presentation, and detail of explanations. This will also be judged by a panel of expert judges.
 
  **Note that use of tools requiring a paid license or a demo license is not allowed**.
-
-
-
-
 
 
 You can refer to the [deliverables section](logistics.md#deliverables) for more details on the qualification and final phase deliverables.
