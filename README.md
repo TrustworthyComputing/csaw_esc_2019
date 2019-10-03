@@ -1,4 +1,4 @@
-# The first challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md) (ESC'19 VM available [here](https://drive.google.com/drive/folders/1ee9Cs9WRh0ig8TVHYg7X28MBlnfzSTnp?usp=sharing)
+# The first challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md) (ESC'19 VM available [here](https://drive.google.com/drive/folders/1ee9Cs9WRh0ig8TVHYg7X28MBlnfzSTnp?usp=sharing))
 
 ### The finalists are announced [here](finalists.md)
 
