@@ -9,3 +9,7 @@ the number of points for each challenge is revealed once the challenge is solved
 Each challenge has a unique name, such as `Stairs`.
 The provided program `sender.py` should be updated to write to the RFID card the correct values to solve each challenge. 
 To help the teams get started with a working example, we provide a preprogrammed `sender.py` file that solves the `Stairs` sample challenge in set A.
+
+
+---
+*Acknowledgment: The organizers would like to thank Dimitris Mouris (PhD Candidate, University of Delaware) for contributing to the development of ESC'19 challenge sets.*
