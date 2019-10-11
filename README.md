@@ -1,4 +1,6 @@
-# The second challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+# The third challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+
+### The second challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
 ### The first challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md) (ESC'19 VM available [here](https://drive.google.com/drive/folders/1ee9Cs9WRh0ig8TVHYg7X28MBlnfzSTnp?usp=sharing))
 
