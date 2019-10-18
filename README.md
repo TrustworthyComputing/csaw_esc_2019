@@ -1,4 +1,6 @@
-# The third challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+# The fourth challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+
+### The third challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
 ### The second challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
