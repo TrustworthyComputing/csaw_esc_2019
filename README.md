@@ -1,3 +1,5 @@
+# The final two challenge sets have been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM. No additional sets will be released. Good luck to all the teams!
+
 # The fourth challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
 ### The third challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
