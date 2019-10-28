@@ -1,6 +1,8 @@
-# The final two challenge sets have been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM. No additional sets will be released. Good luck to all the teams!
+# The due date for the final report and video has been extended to 4 November 2019 at 11:55am (morning) eastern time. The ppt presentation and poster should be sent to the organizers by 6 November 2019 at 11:55am (morning) eastern time. For more details please see [here](Deliverables.md)
 
-# The fourth challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+### The final two challenge sets have been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM. No additional sets will be released. Good luck to all the teams!
+
+### The fourth challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
 ### The third challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
