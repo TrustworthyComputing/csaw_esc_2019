@@ -128,6 +128,15 @@ To complete the challenges it is necessary to load specific values to the RFID c
 
 When submitting the final report, each team should also upload a zip file with the corresponding `sender.py` programs used for each challenge. Each copy of the program should pertain to a single challenge only and should be renamed accordingly to clearly reflect which challenge it corresponds to. These files will be used to verify that a team solved a challenge correctly at the time of report submission. Note that the generated hash value for each challenge you solved correctly should also be included in the final report.
 
+## Verifying Solutions
+The challenge leaders and judges will verify the solutions that each team has submitted before the day of the live finals. On the day of the finals, each team should have a computer with all necessary files, their RFID cards/tags, and their RFID board. The judges can further ask teams to present their solution for a challenge on the day of the finals: in this case, the judges will visit the team with a challenge set preprogrammed onto a judge board. Then the judges will perform the following steps:
+1. Program the RFID using the `sender.py` script the team submitted with their final report on HotCRP (the judges will coordinate with the team members if needed).
+2. Select the challenge number on the judge board. 
+3. Confirm the values of A/B based on the teams submission and set the values to the board. 
+4. Press the start challenge button. 
+5. Scan the RFID and wait for the correct/incorrect value to appear on the OLED screen. 
+6. Ask questions to the team members on how their solution works. 
+
 
 [connectTeensy]: https://imgur.com/B6ptFjs.png  "Connect Device"
 [dragDrop]: https://imgur.com/rpmwmRf.png  "Drag and Drop"
