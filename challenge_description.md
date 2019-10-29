@@ -52,6 +52,9 @@ The teams should compose a **final report** detailing their approaches. The defi
 
 On the day of the finals, each region will receive a live challenge binary. This binary will have a new challenge that teams will race to solve as quickly as possible during the competition. Teams should come prepared with the provided PCB so that they can program their RFID card on site with an exploitation payload to defeat the live challenge. A special RFID lock will be programmed with the live challenge by the organizers and will be ready to be exploited; when a team is confident that they have developed a working exploit, they will scan their programmed RFID card at the RFID lock and attempt to unlock it. As this phase is a race, the first team to successfully complete it will receive 150 extra points to their final challenge score. The second team will receive 100 extra points, and the third team will receive 50 extra points. No other teams will receive extra points. 
 
+### Bonus Points
+We have included an additional hidden functionality in a few challenge sets. Teams that uncover this functionality and discuss it in their final report will receive 50 challenge points as bonus (the hidden functionality will not count as solving any specific challenge).
+
 ## Evaluation and Grading Policies
 Within the final phase, there will be a series of challenges for teams to solve. Challenges will be provided in terms of increasing difficulty, but participants can solve challenges in any order that they wish.
 
