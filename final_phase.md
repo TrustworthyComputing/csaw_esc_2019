@@ -22,6 +22,8 @@ This year, we have prepared a custom designed RFID system for the competition. E
 
 ![alt text][boardDescription]
 
+The **schematic** of the RFID board [is available here](ESC19BoardSchematic.pdf).
+
 ### Hardware FAQ
 
 In case you encounter any of the following, please refer to the recommended resolutions:
