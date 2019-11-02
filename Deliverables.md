@@ -1,3 +1,5 @@
+# In the uploaded computer files, each challenge should have a separate, clearly named `senderX-yyyyyy.py` file, where `X` is the challenge set (e.g., `A`) and `yyyyyy` is the name of the challenge as it appears on the board (e.g., `stairs`).
+
 # The due date for the final report and video has been extended to 4 November 2019 at 11:55am (morning) eastern time. The final report in IEEE template format should be uploaded to HotCRP along with all associated computer files (e.g., sender.py for each solved challenge, documentation on use of files, Makefiles etc.) in TAR.GZ format.
 
 # The ppt presentation should be sent to the organizers by 6 November 2019 at 11:55am (morning) eastern time. Teams can also send a copy of their poster by 6 November 2019 at 11:55am (morning) eastern time.
