@@ -13,7 +13,7 @@
 
 ## Europe
 1. TRX
-  - Almanza Matteo, Chen Qian Matteo, Cotignola Christian, Assaiante Cristian, Demetrescu Camil *Sapienza University of Rome*
+  - Matteo Almanza, Qian Matteo Chen, Christian Cotignola, Cristian Assaiante, Camil Demetrescu *Sapienza University of Rome*
 2. Albsociety
   - Konstantin Bücheler, Lucas Becker, Patrick Regenscheit, Tobias Heer *Hochschule Albstadt-Sigmaringen*
 3. UBS_BZH
