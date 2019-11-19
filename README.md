@@ -1,16 +1,18 @@
-# The due date for the final report and video has been extended to 4 November 2019 at 11:55am (morning) eastern time. The ppt presentation and poster should be sent to the organizers by 6 November 2019 at 11:55am (morning) eastern time. For more details please see [here](Deliverables.md)
+# The winners for all regions have been posted [here](Winners.md). We look forward to everyone's submissions for next year!
 
-### The final two challenge sets have been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM. No additional sets will be released. Good luck to all the teams!
+###### The due date for the final report and video has been extended to 4 November 2019 at 11:55am (morning) eastern time. The ppt presentation and poster should be sent to the organizers by 6 November 2019 at 11:55am (morning) eastern time. For more details please see [here](Deliverables.md)
 
-### The fourth challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+###### The final two challenge sets have been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM. No additional sets will be released. Good luck to all the teams!
 
-### The third challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+###### The fourth challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
-### The second challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
+###### The third challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
-### The first challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md) (ESC'19 VM available [here](https://drive.google.com/drive/folders/1ee9Cs9WRh0ig8TVHYg7X28MBlnfzSTnp?usp=sharing))
+###### The second challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md). Please drag and drop the challenge set files into your VM.
 
-### The finalists are announced [here](finalists.md)
+###### The first challenge set has been released [here](Challenge%20Releases) with instructions [here](final_phase.md) (ESC'19 VM available [here](https://drive.google.com/drive/folders/1ee9Cs9WRh0ig8TVHYg7X28MBlnfzSTnp?usp=sharing))
+
+###### The finalists are announced [here](finalists.md)
 
 CSAW 2019 Embedded Security Challenge (ESC)
 ===========================================
