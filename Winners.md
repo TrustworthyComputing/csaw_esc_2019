@@ -4,7 +4,7 @@
 1. Shellphish
     - Eric Gustafson, Lukas Dresel, Nilo Redini, Fabio Gritti, Giovanni Vigna *UC Santa Barbara*
 2. pwndevils
-    - Zion Basque, Nathan Smith, Jayakrishna Menon, Wesam Alzahir, Yan Shoshitaishvili *Arizona State University*
+    - Zion Basque, Nathan Smith, Jayakrishna Menon, Akshay Ajayan, Yan Shoshitaishvili *Arizona State University*
 3. Kernel Sanders
     - Grant Hernandez, Hunter Searle, Owen Flannagan, Claire Seiler, Kevin Butler *University of Florida*
 - Honorable Mention
